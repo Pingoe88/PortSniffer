@@ -109,5 +109,3 @@ func scanPorts(ip string, startPort, endPort int, timeout time.Duration) []int {
 
 	return openPorts
 }
-
-//tekst edit kijken of het werkt
